@@ -1,5 +1,4 @@
 # brick_squad (pwr_supply)
-![brick_squad (mini_breadboard_pwr_block))](v1.1/hardware/images/repo_img/hero.png)
 
 mini block breadboard pwr supply
 
@@ -13,7 +12,3 @@ mini block pwr supply
 
 will not fab
 
-
-
-
-designed & engineered by brandon shelly
